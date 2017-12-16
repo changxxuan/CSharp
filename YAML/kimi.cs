@@ -1,5 +1,5 @@
-//存储YAML每一个节点及对应的值
-//层次不一定
+//存储YML每一个节点及对应的值
+//每个节点的层次不同
 using YamlDotNet.RepresentationModel;
 
 [DllImport("kernel32.dll")]
