@@ -1,0 +1,9 @@
+G:\goertek\2017\CSharp\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+G:\goertek\2017\CSharp\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+G:\goertek\2017\CSharp\MineSweeper\MineSweeper\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\goertek\2017\CSharp\MineSweeper\MineSweeper\obj\x86\Debug\MineSweeper.MainForm.resources
+G:\goertek\2017\CSharp\MineSweeper\MineSweeper\obj\x86\Debug\MineSweeper.Properties.Resources.resources
+G:\goertek\2017\CSharp\MineSweeper\MineSweeper\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\goertek\2017\CSharp\MineSweeper\MineSweeper\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\goertek\2017\CSharp\MineSweeper\MineSweeper\obj\x86\Debug\MineSweeper.exe
+G:\goertek\2017\CSharp\MineSweeper\MineSweeper\obj\x86\Debug\MineSweeper.pdb
