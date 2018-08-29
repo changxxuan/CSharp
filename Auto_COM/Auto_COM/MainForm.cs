@@ -181,7 +181,7 @@ namespace Auto_COM
 		    label.Text = note;
 	    }
 
-        private void sendCommandButton_Click()
+        private void sendCommandButton_Click(object sender, EventArgs e)
         {
             try
             {
@@ -203,6 +203,11 @@ namespace Auto_COM
             {
                 checker.Close();
             }
+        }
+
+        private void sendCommandButton_Click()
+        {
+
         }
     }
 }
